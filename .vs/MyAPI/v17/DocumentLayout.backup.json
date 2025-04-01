@@ -7,32 +7,32 @@
       "RelativeMoniker": "D:0:0:{3E76D5A0-BC1C-45CC-B8A2-B7A50B760700}|MyAPI\\MyAPI.csproj|solutionrelative:myapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E76D5A0-BC1C-45CC-B8A2-B7A50B760700}|MyAPI\\MyAPI.csproj|c:\\users\\jirio\\source\\repos\\myapi\\myapi\\myapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{3E76D5A0-BC1C-45CC-B8A2-B7A50B760700}|MyAPI\\MyAPI.csproj|solutionrelative:myapi\\myapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E76D5A0-BC1C-45CC-B8A2-B7A50B760700}|MyAPI\\MyAPI.csproj|c:\\users\\jirio\\source\\repos\\myapi\\myapi\\myapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{3E76D5A0-BC1C-45CC-B8A2-B7A50B760700}|MyAPI\\MyAPI.csproj|solutionrelative:myapi\\myapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{3E76D5A0-BC1C-45CC-B8A2-B7A50B760700}|MyAPI\\MyAPI.csproj|c:\\users\\jirio\\source\\repos\\myapi\\myapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E76D5A0-BC1C-45CC-B8A2-B7A50B760700}|MyAPI\\MyAPI.csproj|solutionrelative:myapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E76D5A0-BC1C-45CC-B8A2-B7A50B760700}|MyAPI\\MyAPI.csproj|c:\\users\\jirio\\source\\repos\\myapi\\myapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{3E76D5A0-BC1C-45CC-B8A2-B7A50B760700}|MyAPI\\MyAPI.csproj|solutionrelative:myapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E76D5A0-BC1C-45CC-B8A2-B7A50B760700}|MyAPI\\MyAPI.csproj|c:\\users\\jirio\\source\\repos\\myapi\\myapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E76D5A0-BC1C-45CC-B8A2-B7A50B760700}|MyAPI\\MyAPI.csproj|solutionrelative:myapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3E76D5A0-BC1C-45CC-B8A2-B7A50B760700}|MyAPI\\MyAPI.csproj|c:\\users\\jirio\\source\\repos\\myapi\\myapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E76D5A0-BC1C-45CC-B8A2-B7A50B760700}|MyAPI\\MyAPI.csproj|solutionrelative:myapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E76D5A0-BC1C-45CC-B8A2-B7A50B760700}|MyAPI\\MyAPI.csproj|c:\\users\\jirio\\source\\repos\\myapi\\myapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E76D5A0-BC1C-45CC-B8A2-B7A50B760700}|MyAPI\\MyAPI.csproj|solutionrelative:myapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E76D5A0-BC1C-45CC-B8A2-B7A50B760700}|MyAPI\\MyAPI.csproj|c:\\users\\jirio\\source\\repos\\myapi\\myapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E76D5A0-BC1C-45CC-B8A2-B7A50B760700}|MyAPI\\MyAPI.csproj|solutionrelative:myapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E76D5A0-BC1C-45CC-B8A2-B7A50B760700}|MyAPI\\MyAPI.csproj|c:\\users\\jirio\\source\\repos\\myapi\\myapi\\myapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3E76D5A0-BC1C-45CC-B8A2-B7A50B760700}|MyAPI\\MyAPI.csproj|solutionrelative:myapi\\myapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E76D5A0-BC1C-45CC-B8A2-B7A50B760700}|MyAPI\\MyAPI.csproj|c:\\users\\jirio\\source\\repos\\myapi\\myapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{3E76D5A0-BC1C-45CC-B8A2-B7A50B760700}|MyAPI\\MyAPI.csproj|solutionrelative:myapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E76D5A0-BC1C-45CC-B8A2-B7A50B760700}|MyAPI\\MyAPI.csproj|c:\\users\\jirio\\source\\repos\\myapi\\myapi\\myapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3E76D5A0-BC1C-45CC-B8A2-B7A50B760700}|MyAPI\\MyAPI.csproj|solutionrelative:myapi\\myapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +46,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "MyAPI.http",
               "DocumentMoniker": "C:\\Users\\Jirio\\source\\repos\\MyAPI\\MyAPI\\MyAPI.http",
               "RelativeDocumentMoniker": "MyAPI\\MyAPI.http",
@@ -58,14 +58,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "MyAPI",
               "DocumentMoniker": "C:\\Users\\Jirio\\source\\repos\\MyAPI\\MyAPI\\MyAPI.csproj",
               "RelativeDocumentMoniker": "MyAPI\\MyAPI.csproj",
               "ToolTip": "C:\\Users\\Jirio\\source\\repos\\MyAPI\\MyAPI\\MyAPI.csproj",
               "RelativeToolTip": "MyAPI\\MyAPI.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-13T09:26:29.847Z"
+              "WhenOpened": "2025-03-13T09:26:29.847Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -77,11 +78,12 @@
               "RelativeToolTip": "MyAPI\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T09:25:32.603Z"
+              "WhenOpened": "2025-03-13T09:25:32.603Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\Jirio\\source\\repos\\MyAPI\\MyAPI\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "MyAPI\\WeatherForecast.cs",
@@ -89,11 +91,12 @@
               "RelativeToolTip": "MyAPI\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T09:25:27.89Z"
+              "WhenOpened": "2025-03-13T09:25:27.89Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Jirio\\source\\repos\\MyAPI\\MyAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "MyAPI\\Properties\\launchSettings.json",
@@ -101,11 +104,12 @@
               "RelativeToolTip": "MyAPI\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-08T10:34:42.555Z"
+              "WhenOpened": "2025-03-08T10:34:42.555Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Jirio\\source\\repos\\MyAPI\\MyAPI\\Program.cs",
               "RelativeDocumentMoniker": "MyAPI\\Program.cs",
@@ -113,7 +117,8 @@
               "RelativeToolTip": "MyAPI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T10:27:46.718Z"
+              "WhenOpened": "2025-03-08T10:27:46.718Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -130,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Jirio\\source\\repos\\MyAPI\\MyAPI\\appsettings.json",
               "RelativeDocumentMoniker": "MyAPI\\appsettings.json",
@@ -138,7 +143,8 @@
               "RelativeToolTip": "MyAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-08T09:33:25.224Z"
+              "WhenOpened": "2025-03-08T09:33:25.224Z",
+              "EditorCaption": ""
             }
           ]
         }
